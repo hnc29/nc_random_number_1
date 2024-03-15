@@ -1,0 +1,9 @@
+{
+  "name": "random-number-generator",
+  "version": "1.0.0",
+  "description": "Generates 3 random numbers between 1 and 65536",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^3.22.0"
+  }
+}
