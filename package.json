@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Generates 3 random numbers between 1 and 65536",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hnc29/nc_random_number_1"
+  },
   "dependencies": {
-    "crypto": "^3.22.0"
+   
   }
 }
